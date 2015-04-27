@@ -1,0 +1,17 @@
+#footer{
+	margin-left:auto;
+	margin-right:auto;
+	width:950px;
+	height:70px;
+}
+hr{
+	color: #637CB6;
+	height:1px;
+}
+#footer p{
+	margin-top:7px;
+	margin-bottom:5px;
+}
+#footer a{
+	color:#000000;
+}
